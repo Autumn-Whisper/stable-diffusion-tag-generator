@@ -1,0 +1,11 @@
+[    ["The quick brown fox jumps over the lazy dog", "quick, brown, fox, jumps, lazy, dog", "slow, black, cat, falls, active, human", "90"],
+    ["She sells seashells by the seashore", "sells, seashells, seashore", "buys, rocks, shore", "70"],
+    ["Peter Piper picked a peck of pickled peppers", "Peter Piper, picked, peck, pickled, peppers", "John, Piper, left, a, sack", "85"],
+    ["How much wood would a woodchuck chuck if a woodchuck could chuck wood?", "wood, woodchuck, chuck, could", "stone, beaver, dig, can", "60"],
+    ["The rain in Spain stays mainly in the plain", "rain, Spain, stays, mainly, plain", "sun, Africa, sets, wildly, mountain", "75"],
+    ["To be or not to be, that is the question", "be, not, question", "know, answer, solution", "80"],
+    ["I scream, you scream, we all scream for ice cream", "scream, ice cream", "smile, broccoli", "95"],
+    ["Red lorry, yellow lorry", "red, yellow, lorry", "green, blue, car", "50"],
+    ["Mary had a little lamb, its fleece was white as snow", "Mary, little lamb, fleece, white, snow", "John, big cow, skin, brown, dirt", "65"],
+    ["It's raining cats and dogs", "raining, cats, dogs", "sunny, birds, bees", "55"]
+]
